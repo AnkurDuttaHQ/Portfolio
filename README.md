@@ -98,14 +98,6 @@ Install dependencies
 npm install
 ```
 
-Create environment file
-
-```env
-SMTP_USER=your_email
-SMTP_PASS=your_password
-CONTACT_EMAIL=your_email
-```
-
 Run development server
 
 ```bash
